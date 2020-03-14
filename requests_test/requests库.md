@@ -606,7 +606,7 @@ print("over")
 
 > 出现以下的情景会需要用到认证的功能
 >
-> ![3-9](..\image\3-9.jpg)
+> ![3-9](https://github.com/waws520waws/waws_spider/blob/master/image/3-9.jpg)
 
 ```python
 import requests
