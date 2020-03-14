@@ -606,7 +606,7 @@ print("over")
 
 > 出现以下的情景会需要用到认证的功能
 >
-> ![3-9](C:\Users\19663\Desktop\3-9.jpg)
+> ![3-9](..\image\3-9.jpg)
 
 ```python
 import requests
