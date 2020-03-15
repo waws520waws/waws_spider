@@ -11,5 +11,7 @@ xpath_test_7        stockstar代码实战
 xpath_test_8        haoduanzi代码实战
 xpath_test_9        父节点的使用
 xpath_test_10       属性多值contains的使用
-xpath_test_11       轴的使用
+xpath_test_11       多个属性的and连接查找
+xpath_test_12       轴的使用
+xpath_test_13       综合案例
 """
